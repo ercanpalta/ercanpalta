@@ -30,7 +30,7 @@
 <h1 align="center">🔥 My Skill Set </h1>  
 
 
-<table align="center"><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="50%">
 
 
 
@@ -44,7 +44,7 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -54,8 +54,6 @@
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>    
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
 
 </td></tr></table>  
 
